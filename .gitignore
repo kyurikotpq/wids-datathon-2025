@@ -1,3 +1,9 @@
+# Data should be kept private
+data/
+cleaned/
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
